@@ -2,12 +2,12 @@
 
 Name:		kdeutils4-printer-applet
 Summary:	View current print jobs and configure new printers
-Version:	4.8.97
-Release:	1
+Version: 4.9.0
+Release: 1
 Group:		Graphical desktop/KDE
 License:	LGPLv2
 URL:		http://utils.kde.org/projects/%{oname}
-Source:		ftp://ftp.kde.org/pub/kde/unstable/%{version}/src/%{oname}-%{version}.tar.xz
+Source:		ftp://ftp.kde.org/pub/kde/stable/%{version}/src/%{oname}-%{version}.tar.xz
 BuildRequires:	kdelibs4-devel
 BuildRequires:	python-kde4
 BuildRequires:	system-config-printer
