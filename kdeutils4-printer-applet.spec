@@ -2,7 +2,7 @@
 
 Name:		kdeutils4-printer-applet
 Summary:	View current print jobs and configure new printers
-Version: 4.9.2
+Version: 4.9.3
 Release: 1
 Group:		Graphical desktop/KDE
 License:	LGPLv2
