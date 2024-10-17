@@ -6,7 +6,7 @@ Version:	4.9.4
 Release:	1
 Group:		Graphical desktop/KDE
 License:	LGPLv2
-URL:		http://utils.kde.org/projects/%{oname}
+URL:		https://utils.kde.org/projects/%{oname}
 Source:		ftp://ftp.kde.org/pub/kde/stable/%{version}/src/%{oname}-%{version}.tar.xz
 BuildRequires:	kdelibs4-devel
 BuildRequires:	python-kde4
